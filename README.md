@@ -36,6 +36,13 @@ Like XML, it is one of the way of formatting the data. Such format of data is us
 + It is light weight text based data interchange format which means, it is simpler to read and write when compared to XML.
 + Though it is derived from a subset of JavaScript, yet it is Language independent. Thus, the code for generating and parsing JSON data can be written in any other programming language.
 + JSON syntax is derived from JavaScript object notation syntax:
+
+
+<p align="center">
+  <img src="/Image-resources-screenshots/Json-prototype.PNG"/>
+  </p>
+  
+  
 #### JSON Vs XML
 + JSON is JavaScript Object Notation.	XML is Extensible markup language
 + JSON is based on JavaScript language.	XML is derived from SGML.
@@ -62,7 +69,11 @@ Like XML, it is one of the way of formatting the data. Such format of data is us
 
 + To fill data in a list or a grid we need to implement Adapter. Adapters acts like a bridge between UI component and data source. Here data source is the source from where we get the data and UI components are list or grid items in which we want to display that data.
 
-+ [TODO] add image.
+
+<p align="center">
+  <img src="/Image-resources-screenshots/adapter.jpg"/>
+  </p>
+
 
 ###### There are the some commonly used Adapter in Android used to fill the data in the UI components.
 + BaseAdapter – It is parent adapter for all other adapters.
@@ -79,7 +90,7 @@ RecyclerView is a ViewGroup, which populates a list on a collection of data prov
 + LayoutManager
 
 
-+ <p align="center">
+ <p align="center">
   <img src="/Image-resources-screenshots/recyclerview.png"/>
   </p>
   
