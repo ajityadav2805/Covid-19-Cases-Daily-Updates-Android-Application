@@ -13,10 +13,8 @@ It is able to show covid-19 overall cases in India like Total cases, Total Recov
  6. Google Ad Sdk Manager
  7. Covid-19 APIs
  8. Bottom sheet dialog.
- 11. India flag PNG.
- 12. forward  material design icon.
+ 9. Image and Icons
  13. loading dialog.
- 16. https://api.rootnet.in/covid19-in/stats/history
- 17. https://api.covidindiatracker.com/total.json
  18. SimpleDateTime class
- 19. Other android components.
+## Apps overview
+ 
