@@ -11,12 +11,6 @@ It is able to show covid-19 overall cases in India like Total cases, Total Recov
  5. Adapter
  6. RecyclerView
  7. Covid-19 APIs
- 8. Others components.
- 
- 8. Bottom sheet dialog.
- 9. Image and Icons
- 13. loading dialog.
- 18. SimpleDateTime class
 #### Java
  + Android is an open source software platform and Linux-based operating system for mobile devices. The Android platform allows developers to write managed code using Java to manage and control the Android device. Android applications can be developed by using the Java programming language and the Android SDK.
  + Java is 100% object oriented programming language and java can be used to create complete applications that may run on a single computer or distributed among severs and clients in a network.
@@ -86,7 +80,8 @@ RecyclerView is a ViewGroup, which populates a list on a collection of data prov
 + Read full article Go to [blog...](https://blog.mindorks.com/how-does-recyclerview-work-internally/)
 #### Covid-19 APIs
 + In this project I am using two covid-19 APIs to keep track of corona cases in India.
-1. https://api.rootnet.in/covid19-in/stats/history
-2. https://api.covidindiatracker.com/total.json
-## Apps overview
+1. [Go go official](https://github.com/amodm/api-covid19-in) OR [Go to Covid-19 APIs](https://api.rootnet.in/covid19-in/stats/history/)
+2. POSTMAN [Go to Covid-19 APIs](https://api.covidindiatracker.com/total.json/)
+## Apps-overview-screenshots.
+
 
