@@ -77,6 +77,7 @@ RecyclerView is a ViewGroup, which populates a list on a collection of data prov
 + Adapter
 + ViewHolder
 + LayoutManager
++ ![Alt text](/Image-resources-screenshots/recyclerview.png?raw=true "Optional Title")
 + Read full article Go to [blog...](https://blog.mindorks.com/how-does-recyclerview-work-internally/)
 #### Covid-19 APIs
 + In this project I am using two covid-19 APIs to keep track of corona cases in India.
