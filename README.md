@@ -62,6 +62,14 @@ Like XML, it is one of the way of formatting the data. Such format of data is us
 + Until the release of Volley, the canonical Java class java.net.HttpURLConnection and the Apache org.apache.http.client were the only tools available to Android programmers to develop a RESTful system between a client and a remote backend.
 
 + Putting aside for a moment the fact that these two classes aren't exempt from bugs, it should be noted how everything that went beyond a simple HTTP transaction had to be written ex novo. If you wanted to cache images or prioritize requests, you had to develop it from scratch.
+
+
+<p align="center">
+  <img src="/Image-resources-screenshots/json_parsing.PNG"/>
+  </p>
+
+
+
 + Read full article Go to [blog...](https://code.tutsplus.com/tutorials/an-introduction-to-volley--cms-23800#:~:text=Volley%20is%20a%20networking%20library,the%20canonical%20Java%20class%20java./)
 
 #### Adapter in Android
@@ -101,5 +109,33 @@ RecyclerView is a ViewGroup, which populates a list on a collection of data prov
 1. [Go go official](https://github.com/amodm/api-covid19-in) OR [Go to Covid-19 APIs](https://api.rootnet.in/covid19-in/stats/history/)
 2. POSTMAN [Go to Covid-19 APIs](https://api.covidindiatracker.com/total.json/)
 ## Apps-overview-screenshots.
+
+  <p align="center">
+  <img src="/Image-resources-screenshots/device-2020-09-13-012635.png"/>
+  </p>
+  
+  
+  
+  <p align="center">
+  <img src="/Image-resources-screenshots/device-2020-09-13-012848.png"/>
+  </p>
+  
+  
+  
+  <p align="center">
+  <img src="/Image-resources-screenshots/device-2020-09-13-014336.png"/>
+  </p>
+  
+  
+  
+   <p align="center">
+   <img src="/Image-resources-screenshots/device-2020-09-13-014405.png"/>
+   </p>
+  
+  
+  <p align="center">
+  <img src="/Image-resources-screenshots/device-2020-09-13-014438.png"/>
+  </p>
+
 
 
